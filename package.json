@@ -1,0 +1,10 @@
+{
+  "name": "your-bot",
+  "version": "1.0.0",
+  "description": "Your Discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "schedule": "node scheduler.js"
+  }
+}
